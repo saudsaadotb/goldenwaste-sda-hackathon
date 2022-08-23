@@ -1,4 +1,4 @@
-## Dojo jump using Docker and Kubernetes
+## Golden Waste SDA Hackathon
 
 <h3 align="center">
 Golden Waste SDA Hackathon
@@ -17,11 +17,21 @@ This is a simple Java spring boot application build during SDA hackathon. Projec
 - 
 
 #### Team1-ElasticBeanstalk
+- 
+- 
 
 #### Team2-EC2withVPC
+- 
+- 
 
 #### Team3-Kubernetes
+- 
+- 
 
 #### Team4-DockerCompose and swarm
+- 
+- 
 
 #### Team5-Docker and docker swarm
+- 
+- 
